@@ -6,7 +6,7 @@ What this game has:
 + Sound on collision
 + Restart button
 
-![vlcsnap-2020-12-22-01h46m10s628](C:%5CUsers%5Cjaizo%5CDesktop%5CUnity%20Projects%5C2D%20Foundations%5CRecordings%5Cvlcsnap-2020-12-22-01h46m10s628.png)
+![vlcsnap-2020-12-22-01h46m10s628](./Recordings/vlcsnap-2020-12-22-01h46m10s628.png)
 
-<video src="C:%5CUsers%5Cjaizo%5CDesktop%5CUnity%20Projects%5C2D%20Foundations%5CRecordings%5Cmovie_005.mp4"></video>
+<video src="./Recordings/movie_005.mp4"></video>
 
